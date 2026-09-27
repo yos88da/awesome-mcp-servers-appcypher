@@ -404,6 +404,7 @@ See [Helpful Tools & Utilities](#helpful-tools-&-utilities) section for tools to
 - <img src="https://defang.io/favicon.png" height="14" /> [DefangLabs/defang](https://github.com/DefangLabs/defang) - CLI and MCP server for building and deploying Docker Compose-compatible projects to your own AWS, GCP, or DigitalOcean account.
 
 <br />
+- <img src="https://vibe-fixer.com/brand-mark.png" height="14" /> [VibeFix](https://github.com/yos88da/vibefix-mcp) - Remote MCP server (`https://vibe-fixer.com/mcp`) that triages broken web apps built with AI app builders like Lovable, Bolt, v0, Base44 and Replit: the likely cause, how to confirm it, and what a fix involves. Read-only, no API key.
 
 ## 📊 <a name="data-visualization"></a>Data Visualization
 
